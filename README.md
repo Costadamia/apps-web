@@ -16,5 +16,3 @@ Sample web page using HTML and CSS, with focus on Grid and flexbox
 3. *Home page (responsive)*
 
 <img src="/capturas/apps_inicio-destacados_mobile.png" width="30%" height="auto">
-
-![Home page responsive](/capturas/apps_inicio-destacados_mobile.png)
