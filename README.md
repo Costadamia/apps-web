@@ -1,6 +1,6 @@
 # apps web
 
-Sample web page using HTML and CSS, with focus on Grid and flexbox. [visit page](https://costadamia.github.io/numero-secreto-/)
+Sample web page using HTML and CSS, with focus on Grid and flexbox. [visit page](https://costadamia.github.io/apps-web/)
 
 - Responsive design
 - Accesibility
